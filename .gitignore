@@ -99,10 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/vcs.xml
 .idea/case-study.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
 /.ipynb_checkpoints/
-1_iterators_and_generators.ipynb
-.idea
+
