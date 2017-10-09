@@ -1,5 +1,5 @@
 # case-study
-The case-study is a repository where you can apply the knowledge you have learned from many data science courses with real-world datasets.
+The case-study is a repository where you can apply the knowledge you have learned from the basic python programming to the machine learning algorithms with real-world datasets.
 
 ## Dependencies
 To work properly, you need to have:
