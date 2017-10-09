@@ -1,6 +1,3 @@
-#
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -108,4 +105,4 @@ ENV/
 .idea/workspace.xml
 /.ipynb_checkpoints/
 1_iterators_and_generators.ipynb
-datasets/
+.idea/
