@@ -105,4 +105,4 @@ ENV/
 .idea/workspace.xml
 /.ipynb_checkpoints/
 1_iterators_and_generators.ipynb
-.idea/
+.idea
