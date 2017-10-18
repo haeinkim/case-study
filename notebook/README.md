@@ -1,4 +1,4 @@
-#OOP - Case study I
+# OOP - Case study I
 This is a simple command-line notebook application. 
 
 ## Goal of this project
